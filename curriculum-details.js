@@ -116,12 +116,12 @@ window.WEEK_DETAILS = {
     "completion": "Complete the independent build, meet the validation evidence, document one failure/fix, and attach a repository or report link.",
     "resources": [
       {
-        "title": "Anthropic / OpenAI API docs",
-        "url": "https://platform.openai.com/docs/overview"
-      },
-      {
         "title": "AI Engineering (Chip Huyen) — applied spine",
         "url": "https://www.oreilly.com/library/view/ai-engineering/9781098166298/"
+      },
+      {
+        "title": "Anthropic / OpenAI API docs",
+        "url": "https://platform.openai.com/docs/overview"
       }
     ]
   },
@@ -841,8 +841,8 @@ window.WEEK_DETAILS = {
     "completion": "Complete the independent build, meet the validation evidence, document one failure/fix, and attach a repository or report link.",
     "resources": [
       {
-        "title": "Pramp mock interviews",
-        "url": "https://www.pramp.com/"
+        "title": "Exponent Practice (formerly Pramp): peer mock interviews",
+        "url": "https://www.tryexponent.com/practice"
       },
       {
         "title": "AI Engineering (Chip Huyen) — applied spine",
@@ -891,12 +891,12 @@ window.WEEK_DETAILS = {
     "completion": "Complete the independent build, meet the validation evidence, document one failure/fix, and attach a repository or report link.",
     "resources": [
       {
-        "title": "nanoGPT (Karpathy)",
-        "url": "https://github.com/karpathy/nanoGPT"
+        "title": "Neural Networks: Zero to Hero (Karpathy, video)",
+        "url": "https://karpathy.ai/zero-to-hero.html"
       },
       {
-        "title": "Zero to Hero (Karpathy)",
-        "url": "https://karpathy.ai/zero-to-hero.html"
+        "title": "nanoGPT (code reference)",
+        "url": "https://github.com/karpathy/nanoGPT"
       }
     ]
   },
@@ -916,12 +916,12 @@ window.WEEK_DETAILS = {
     "completion": "Complete the independent build, meet the validation evidence, document one failure/fix, and attach a repository or report link.",
     "resources": [
       {
-        "title": "PyTorch tutorials",
-        "url": "https://pytorch.org/tutorials/"
+        "title": "Neural Networks: Zero to Hero (Karpathy, video)",
+        "url": "https://karpathy.ai/zero-to-hero.html"
       },
       {
-        "title": "Zero to Hero (Karpathy)",
-        "url": "https://karpathy.ai/zero-to-hero.html"
+        "title": "PyTorch tutorials",
+        "url": "https://pytorch.org/tutorials/"
       }
     ]
   },
