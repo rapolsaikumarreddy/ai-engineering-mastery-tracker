@@ -3,7 +3,7 @@ window.ROADMAP = {
   roles: ['Applied AI Engineer','AI Platform Engineer','LLMOps Engineer'],
   phases: [
     {name:'Software Engineering Foundations',range:[1,6],role:'Applied AI',project:'Incident API',gate:'Ship a tested FastAPI + PostgreSQL incident service with CI, authentication basics and reproducible Docker setup.',topics:[
-      ['Python without tutorials','Functions, collections, loops, file I/O, JSON, error handling','Write a cloud-inventory parser from scratch','https://cs50.harvard.edu/python/'],
+      ['Python foundations through guided learning + independent practice','Functions, collections, loops, file I/O, JSON, error handling','Write a cloud-inventory parser from scratch','https://cs50.harvard.edu/python/'],
       ['Professional Python','Modules, environments, type hints, dataclasses, logging, CLI design','Package and test a cloud inventory CLI','https://docs.python.org/3/tutorial/'],
       ['HTTP and automated tests','HTTP methods, status codes, httpx, pytest, mocking, retries','Build a resilient API client with tests','https://docs.pytest.org/'],
       ['FastAPI fundamentals','Pydantic, routes, dependency injection, validation, error responses','Build incident CRUD endpoints','https://fastapi.tiangolo.com/tutorial/'],
