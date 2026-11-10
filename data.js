@@ -57,7 +57,7 @@ window.ROADMAP = {
           "LLM API engineering",
           "Tokens, context, structured output, validation, timeouts, retry budgets",
           "Add incident summarization with mocked tests",
-          "https://platform.openai.com/docs/overview"
+          "https://www.oreilly.com/library/view/ai-engineering/9781098166298/"
         ],
         [
           "Embeddings and retrieval",
@@ -279,7 +279,7 @@ window.ROADMAP = {
           "Technical interviews",
           "Python, SQL, API design, RAG and AI system design",
           "Complete timed coding and architecture mocks",
-          "https://www.pramp.com/"
+          "https://www.tryexponent.com/practice"
         ],
         [
           "Core graduation gate",
@@ -303,13 +303,13 @@ window.ROADMAP = {
           "Transformer internals",
           "Attention, tokenization, training objective, architecture",
           "Implement and explain a minimal attention module",
-          "https://github.com/karpathy/nanoGPT"
+          "https://karpathy.ai/zero-to-hero.html"
         ],
         [
           "PyTorch foundations",
           "Autograd, tensors, datasets, optimization",
           "Train a small neural network and debug gradients",
-          "https://pytorch.org/tutorials/"
+          "https://karpathy.ai/zero-to-hero.html"
         ],
         [
           "Fine-tuning: SFT and LoRA",
